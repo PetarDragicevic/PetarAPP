@@ -6,7 +6,7 @@ namespace APP
     {
         int Main()
         {
-
+            int ja = 123;
         }
     }
 }
