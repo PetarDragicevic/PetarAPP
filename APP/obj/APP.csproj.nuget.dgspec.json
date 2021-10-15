@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar\\Desktop\\APP\\APP\\APP.csproj": {}
+    "C:\\Users\\Petar\\Desktop\\1noob\\PetarAPP\\APP\\APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar\\Desktop\\APP\\APP\\APP.csproj": {
+    "C:\\Users\\Petar\\Desktop\\1noob\\PetarAPP\\APP\\APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\APP\\APP\\APP.csproj",
+        "projectUniqueName": "C:\\Users\\Petar\\Desktop\\1noob\\PetarAPP\\APP\\APP.csproj",
         "projectName": "APP",
-        "projectPath": "C:\\Users\\Petar\\Desktop\\APP\\APP\\APP.csproj",
+        "projectPath": "C:\\Users\\Petar\\Desktop\\1noob\\PetarAPP\\APP\\APP.csproj",
         "packagesPath": "C:\\Users\\Petar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar\\Desktop\\APP\\APP\\obj\\",
+        "outputPath": "C:\\Users\\Petar\\Desktop\\1noob\\PetarAPP\\APP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

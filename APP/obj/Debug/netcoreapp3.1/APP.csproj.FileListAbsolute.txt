@@ -3,3 +3,8 @@ C:\Users\Petar\Desktop\APP\APP\obj\Debug\netcoreapp3.1\APP.GeneratedMSBuildEdito
 C:\Users\Petar\Desktop\APP\APP\obj\Debug\netcoreapp3.1\APP.AssemblyInfoInputs.cache
 C:\Users\Petar\Desktop\APP\APP\obj\Debug\netcoreapp3.1\APP.AssemblyInfo.cs
 C:\Users\Petar\Desktop\APP\APP\obj\Debug\netcoreapp3.1\APP.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\1noob\PetarAPP\APP\obj\Debug\netcoreapp3.1\APP.csproj.AssemblyReference.cache
+C:\Users\Petar\Desktop\1noob\PetarAPP\APP\obj\Debug\netcoreapp3.1\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar\Desktop\1noob\PetarAPP\APP\obj\Debug\netcoreapp3.1\APP.AssemblyInfoInputs.cache
+C:\Users\Petar\Desktop\1noob\PetarAPP\APP\obj\Debug\netcoreapp3.1\APP.AssemblyInfo.cs
+C:\Users\Petar\Desktop\1noob\PetarAPP\APP\obj\Debug\netcoreapp3.1\APP.csproj.CoreCompileInputs.cache
